@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
