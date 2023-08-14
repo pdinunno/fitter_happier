@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Avoid creating -hub dir without processing images (#8334)
