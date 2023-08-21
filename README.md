@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
