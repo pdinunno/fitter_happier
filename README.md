@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Add type hinting to explorer.py (#7388)
