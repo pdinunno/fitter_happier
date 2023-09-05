@@ -1,1 +1,1 @@
-Add docs links to all dataset YAMLs (#7360)
+Add docstrings to new HUB functions (#7576)
