@@ -1,1 +1,1 @@
-example Google Colab
+YOLOv8 INT8 TFLite Inference Example (#7317)
