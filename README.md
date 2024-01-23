@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Avoid creating -hub dir without processing images (#8334)
