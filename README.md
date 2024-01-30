@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+OpenVino 2024.0.0 (#8726)
