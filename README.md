@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
