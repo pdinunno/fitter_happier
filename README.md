@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Add Neural Magic Docs integrations page (#7234)
