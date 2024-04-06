@@ -1,1 +1,1 @@
-OBB Docs updates (#7568)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
