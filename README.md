@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Fix Multi-GPU resume bug (#7328)
