@@ -1,1 +1,1 @@
-Fixed dataloader CPU bottleneck for small batch sizes (#7659)
+Merge pull request #22 from SkalskiP/patch-1
