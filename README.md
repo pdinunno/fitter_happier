@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Improve Coral Edge TPU guide (#8160)
