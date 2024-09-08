@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Docs partial mdformat improvements (#7378)
