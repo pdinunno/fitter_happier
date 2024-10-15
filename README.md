@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Fix PNNX ubuntu -> linux bug (#7050)
