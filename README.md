@@ -1,1 +1,1 @@
-fix resume training
+Add missing single-line docstrings (#8362)
