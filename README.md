@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Add HUB-SDK Docs reference section (#7781)
