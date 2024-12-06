@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
